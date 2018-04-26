@@ -1,0 +1,28 @@
+     *******
+     **     *
+     **  *    *
+     **     *
+     **    *
+     *** *  
+     **    *
+     **     *
+     **  *    * 
+     **     *
+     **    *  
+     ******
+
+	BIENVENU DANS LE GUIDE D'INSTALLATION [SUR Windows] DE GDG (GESTION DES COLLABORATEURS) DE YODECO
+
+1* Après avoir deZipper, copiez le dossier GdC dans C:\wamp\www\
+
+2* Mettez WampServer en marche
+
+3* Importez la Base de Données (le fichier gdc_bd.sql) à l'adresse : localhost/phpmyadmin 
+   (Navigateur Chrome par exemple)
+
+4* Lancez le projet avec le Navigateur de votre choix avec l'adresse localhost/GdC
+
+5* Voilà, on vous demande de vous connecter : 
+   Login: yodeco Password: yodeco
+
+NB: L'appli. est en cours de construction... :)
